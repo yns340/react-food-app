@@ -1,0 +1,8 @@
+.AllRecipes{
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    background-color: rgb(70, 70, 70);
+    padding: 20px;
+    font-size: 30px;
+}
