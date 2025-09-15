@@ -16,6 +16,7 @@ This project was created as a **frontend internship learning project** to practi
 - JavaScript (JS)  
 - JSX  
 - CSS
+- API Integration
 
 ## Screenshot
 
